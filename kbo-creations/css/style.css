@@ -1,0 +1,42 @@
+html {
+    background-color: white;
+}
+body {
+    background-color: #52677D;
+    width: 80%;
+    margin: 50px auto;
+    border: 5px solid blue;
+    box-shadow: 5px 5px 20px black;
+    font-family: cursive;
+}
+
+/*Do not release!....*/
+
+header,
+footer,
+h1,
+ul,
+div {
+    border: 1px solid blue;
+    padding: 15px;
+}
+.important {
+    color: red;
+    font-size: 1.2em;
+}
+
+p{
+    color:lawngreen
+}
+
+img {
+    max-width: 100%;
+
+    padding:20px;
+}
+
+.outer{
+    display: flex;
+}
+
+.inner{}

@@ -1,0 +1,26 @@
+/*nav bar styling*/
+
+
+
+nav ul{
+    list-style-type:none;
+    text-align:center;
+
+}
+
+nav ul li{
+    display:inline;}
+nav ul li a {
+    border-radius:2px;
+    margin:3px;
+    border:1px solid green;
+    padding:5px;
+    background-color:lightblue;
+    color:black;
+    background-color:b
+}
+
+nav ul li a:hover {
+    background-color:pink;
+    color:yellow;
+}

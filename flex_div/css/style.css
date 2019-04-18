@@ -1,0 +1,31 @@
+div {
+    margin:5pm;
+    border:2px solid green;
+    padding:5px;
+    
+}
+
+@media (max-width:720px){
+    .outer_div {
+    display:flex;
+    flex-direction:column; 
+}
+   
+    body{
+        background-color:beige;
+    }
+}
+
+@media (min-width:721px){
+    .outer_div {
+    display:flex;
+    flex-direction:row;
+}
+    body{
+        background-color:lightblue;   
+    }
+}
+
+.inner_div {
+    
+}

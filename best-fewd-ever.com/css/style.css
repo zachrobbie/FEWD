@@ -1,0 +1,39 @@
+html {
+    background-color: white;
+}
+body {
+    background-color: saddlebrown;
+    width: 80%;
+    margin:20px auto;
+    padding: 20px;
+    font-family: 'Lato', sans-serif;
+}
+.logo-text {
+    font-size: 3em;
+    color: purple;
+}
+.login-button {
+    float: right;
+}
+header {
+    margin: 50px;
+}
+nav {
+    margin: 20px;
+}
+.copy-right {
+    margin: 10px;
+}
+
+.banner-photo {
+    box-shadow: 5px 5px 20px purple;
+}
+.best-food-ever {
+    color:purple;
+}
+footer {
+    text-align:center;
+}
+.healthy {
+    color:purple;
+}
